@@ -1,0 +1,1 @@
+# Project_6_LSTM-based-Forecasting-of-Control-Commands-from-Sensor-Data
